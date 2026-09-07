@@ -1,0 +1,5 @@
+aiohttp
+flask
+web3
+pandas
+python-dotenv
