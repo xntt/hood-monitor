@@ -1,5 +1,6 @@
 aiohttp
-flask
+fastapi
 web3
 pandas
+uvicorn
 python-dotenv
