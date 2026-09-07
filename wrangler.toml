@@ -1,6 +1,0 @@
-name = "hood-monitor"
-type = "python"
-compatibility_date = "2023-10-30"
-
-[vars]
-PORT = "8080"
